@@ -34,7 +34,7 @@ Prerequisites:
     .NET 8 SDK
     SQL Server (SSMS for database setup)
     
-Setup Instructions:
+Setup Instructions: 
     Clone the repository:
         git clone https://github.com/mitesh002/CourseManagementAPI-ASP.NET-8.git
       
